@@ -15,7 +15,7 @@ export default {
   },
   async fetch() {
     await this.$axios
-      .get("v1/cnn-news")
+      .get("v1/cnbc-news")
       .then((res) => (this.articles = res.data.data));
   },
 };

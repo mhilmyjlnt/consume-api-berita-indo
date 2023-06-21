@@ -4,7 +4,7 @@
       class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative"
     >
       <div class="article-img col-12 d-lg-block">
-        <img :src="article.image.small" alt="#" />
+        <img :src="article.image.large" alt="#" />
       </div>
       <div class="col-12 p-4 d-flex flex-column position-static">
         <h4 class="mb-2">{{ article.title }}</h4>

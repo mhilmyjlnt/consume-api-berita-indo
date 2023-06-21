@@ -6,7 +6,7 @@
           <a class="link-secondary" href="#">Subscribe</a>
         </div>
         <div class="col-4 text-center">
-          <a class="text-dark fs-4" href="#">Articles</a>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/100px-CNN.svg.png?20230111210346" alt="">
         </div>
         <div class="col-4 d-flex justify-content-end align-items-center">
           <a class="link-secondary" href="#" aria-label="Search">
